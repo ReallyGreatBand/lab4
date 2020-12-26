@@ -9,5 +9,5 @@
 ---
 Щоб запустити тестовий файл з головної директорії
 ``` bash 
- go run ./main.go -f 1-example.txt
+ go run ./main.go -f ./assets/1-example.txt
 ```
